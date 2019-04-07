@@ -1,0 +1,75 @@
+body {
+    background-color: #745CC1;
+    font-family: roboto;
+}
+
+.logo img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 64px;
+}
+
+.form1 {
+    padding-top: 40px;
+    margin: 0 auto;
+    width: 243px;
+    height: 237px;
+}
+
+.email {
+    padding-bottom: 16px;
+    font-size: 22px;
+    color: #ffffff;
+    width: 247px;
+    height: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    outline: none;
+    background: none;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+
+.senha {
+    color: #ffffff;
+    width: 247px;
+    height: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    outline: none;
+    background: none;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    padding-bottom: 16px;
+    font-size: 22px;
+}
+
+button {
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 247px;
+    height: 65px;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
+    border-radius: 30px 30px 30px 30px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    text-align: center;
+    color: #ffffff;
+    text-shadow: 0px 2px 3px rgba(0, 0, 0, 0.5);
+}
