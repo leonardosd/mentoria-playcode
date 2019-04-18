@@ -1,0 +1,50 @@
+body {
+    font-family: 'Oswald', sans-serif;
+}
+
+.listaProjetos {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    text-transform: uppercase;
+    list-style: none;
+}
+
+.listaProjetos .item {
+    padding: 60px 30px 60px 90px;
+    margin-bottom: 3px;
+    background-color: #4A4A4A;
+}
+
+.listaProjetos .item:hover {
+    background-color: #6E6E6E;
+}
+
+
+
+.listaProjetos .item:hover {
+    background-color: #6E6E6E;
+}
+
+
+.listaProjetos .item a {
+    text-decoration: none;
+    color: white;
+    letter-spacing: 2px;
+}
+
+.listaProjetos .item .vazio {
+    width: 35px;
+    height: 35px;
+    vertical-align: -12px;
+    padding-right: 10px; 
+}
+
+.listaProjetos .arrow {
+  
+    width: 16.5px;
+    height: 30px;
+    vertical-align: 77px;
+    padding-left: 100%;
+
+}
